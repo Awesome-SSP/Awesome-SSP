@@ -3,7 +3,8 @@
 # Welcome here
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh Parmar</h1>
-<h3 align="center">Passionate Full-Stack & AI Developer | B.Tech CSE '26</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Building What Matters</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions+%F0%9F%9A%80;Solving+Real-World+Problems+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%92%BB;Full-Stack+%2B+AI+Enthusiast+%F0%9F%94%A1" alt="Typing SVG" />
